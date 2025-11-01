@@ -1,7 +1,7 @@
 # 💼 Archesky Landing (HTML & CSS)
 
-Hola 👋 soy **Sandy**, y este es uno de mis primeros proyectos de **maquetación con HTML y CSS**.  
-La idea fue recrear una landing page con estilo **corporativo moderno**, enfocada en practicar estructura semántica y diseño visual adaptable.
+¡Hola! 👋 Soy **Sandy** y este proyecto fue de mis primeras pruebas serias de **maquetación con HTML y CSS**.  
+Busqué recrear una landing corporativa elegante para practicar semántica, jerarquía visual y ajustes responsivos.
 
 ---
 
@@ -19,10 +19,10 @@ La idea fue recrear una landing page con estilo **corporativo moderno**, enfocad
 ---
 
 ## 🌐 Vista previa
-[Ver demo](https://archesky-landing-html-css.vercel.app)
+[Ver demo]()
 
 ---
 
 ## 💬 Notas personales
-Este proyecto representa parte de mi camino de aprendizaje en **HTML y CSS**,  
-reforzando los fundamentos de maquetación y el diseño visual limpio.
+Este ejercicio marcó mi punto de partida en **HTML y CSS**,  
+reforzando los fundamentos de maquetación y un estilo visual limpio.
