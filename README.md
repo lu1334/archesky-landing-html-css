@@ -19,7 +19,6 @@ La idea fue recrear una landing page con estilo **corporativo moderno**, enfocad
 ---
 
 ## 🌐 Vista previa
- 
 [Ver demo](https://archesky-landing-html-css.vercel.app)
 
 ---
