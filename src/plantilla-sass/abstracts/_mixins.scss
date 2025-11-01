@@ -1,0 +1,8 @@
+
+@mixin flexbox($tipo) {
+    @if $tipo == 'row'{
+        display: flex;
+        @content;
+    }
+}
+  

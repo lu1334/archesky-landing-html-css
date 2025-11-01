@@ -1,0 +1,11 @@
+@use './plantilla-sass/app.scss' as app;
+
+
+body {
+    background: rgb(235  235	235	);
+    background-image: url(/img_proyect/happy-businesswoman-with-hand-presentation-UDBYNF8.png),url(/img_proyect/cuadro_verde.png);
+    background-repeat: no-repeat;
+    background-size: 700px;
+    background-position:right top ;
+    
+}
