@@ -14,7 +14,7 @@ La idea fue recrear una landing page con estilo **corporativo moderno**, enfocad
 
 ## 🧩 Tecnologías
 - **HTML5**
-- **CSS3**
+- **CSS3/Sass**
 
 ---
 
